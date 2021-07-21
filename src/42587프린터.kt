@@ -8,11 +8,11 @@ class `42587프린터` {
             printQueue.removeAt(0)
             if(printQueue.any { current.value < it.value }) {
                 printQueue.add(current)
-                continue
-            }
-            count += 1
-            if (location == current.index) {
-                break
+            } else {
+                count += 1
+                if (location == current.index) {
+                    break
+                }
             }
         }
         return count
