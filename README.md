@@ -14,4 +14,5 @@
 | 2021.07.14 | 프로그래머스 43165 타겟 넘버 |        |
 | 2021.07.20 | 프로그래머스 67257 수식최대화 |        |
 | 2021.07.21 | 프로그래머스 42587 프린터 | [프린터](https://velog.io/@huijiny/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%94%84%EB%A6%B0%ED%84%B0-Kotlin)       |
-
+| 2021.07.20 | 프로그래머스 81302 거리두기확인하기  |  [거리두기확인하기](https://velog.io/@huijiny/kotlin-%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)   |
+| 2021.07.20 | 프로그래머스 64065 튜플 | [튜플](https://velog.io/@huijiny/kotlin%ED%8A%9C%ED%94%8C)       |
