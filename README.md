@@ -20,3 +20,14 @@
 | 2021.07.20 | 프로그래머스 64065 튜플 | [튜플](https://velog.io/@huijiny/kotlin%ED%8A%9C%ED%94%8C) 
 | 2021.08.02 | 프로그래머스 42839 소수찾기 | [소수찾기](https://velog.io/@huijiny/Kotlin-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0)
 | 2021.08.05 | BOJ 1193 분수찾 | [분수찾기](https://velog.io/@huijiny/kotlin-%EB%B0%B1%EC%A4%80-%EB%B6%84%EC%88%98%EC%B0%BE%EA%B8%B0)
+| 2021.08.08 | BOJ 1085 직사각형에서탈출 | | 
+| 2021.08.08 | BOJ 1966 프린터큐 | |
+| 2021.08.08 | BOJ 2581 소수 | |
+| 2021.08.08 | BOJ 9012 괄호 | |
+| 2021.08.08 | BOJ 10250 ACM 호텔 | |
+| 2021.08.08 | BOJ 10773 제로 | | 
+
+
+
+
+
