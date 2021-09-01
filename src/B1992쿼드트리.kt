@@ -30,10 +30,10 @@ fun recursive(col: Int, row: Int, multiArray: Array<Array<Int>>, n: Int) {
         print(first)
     } else {
         print("(")
-        recursive(col, row, multiArray, n/2)
-        recursive(col, row+n/2, multiArray, n/2)
-        recursive(col+n/2, row, multiArray, n/2)
-        recursive(col+n/2, row+n/2, multiArray, n/2)
-        print(")")
+        recursive(col, row, multiArray, n/2) // 왼쪽 위 사각형
+        recursive(col, row+n/2, multiArray, n/2) // 오른쪽 위 사각형
+        recursive(col+n/2, row, multiArray, n/2) // 왼쪽 아래 사각형
+        recursive(col+n/2, row+n/2, multiArray, n/2) // 오른쪽 아래 사각형
+       print(")")
     }
 }
