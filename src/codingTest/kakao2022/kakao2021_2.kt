@@ -1,13 +1,13 @@
 package codingTest.kakao2022
 
 import java.lang.StringBuilder
+import java.util.*
 
 class kakao2021_2 {
     fun solution(n: Int, k: Int): Int {
         var answer: Int = 0
 
         val splitBy0 = conversion(n, k).split("0").filter { it.isNotBlank() }.map { it.toInt() }.sortedDescending()
-
         var isNotPrimeList = getNotPrimeList(splitBy0[0])
         splitBy0.forEach { value ->
             if(!isNotPrimeList[value]) {
